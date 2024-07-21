@@ -146,3 +146,7 @@ background-color: firebrick;
 color: whitesmoke;
 font-weight: bold;
 }
+p { margin-bottom: 0;
+    color: firebrick;
+  
+  }
